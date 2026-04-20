@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Akshita , and I am a BTech ungergrad in Computer Science.
+My name is Akshita , and I am a BTech ungergrad in Computer Science building full-stack web applications using Node.js, Express, and MongoDB.
 <!--
 **Akshitaa-01/Akshitaa-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
