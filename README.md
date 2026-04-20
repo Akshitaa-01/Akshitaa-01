@@ -1,7 +1,7 @@
-## Hi, I am Akshita 👋
-BTech ungergrad in Computer Science building full-stack web applications using Node.js, Express, and MongoDB.
+## Hi, I’m Akshita 👋
+B.Tech undergraduate in Computer Science building full-stack web applications using Node.js, Express, and MongoDB.
 
-- ⚡ Currently working on full-stack projects and improving backend development skills.
+⚡ Currently working on full-stack projects and improving backend development skills.
 
 <!--
 **Akshitaa-01/Akshitaa-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
