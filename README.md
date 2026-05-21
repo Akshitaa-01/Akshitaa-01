@@ -1,19 +1,17 @@
-# hi, i'm akshita ✨
+# Hi, I'm Akshita 
 
-pathologically unable to leave broken code alone 🎀
+Pathologically unable to leave broken code alone 🎀
 
-*cs student • always in the middle of something 🌸*
+*Cs student • always in the middle of something 🌸*
 
 ---
 
-## ✨ tech stack
-
+## ✨ Tech Stack
 `JavaScript` `Node.js` `Express` `MongoDB` `EJS` `Bootstrap` `Html` `Css`
 
 ---
 
-## ✨ projects
-
+## ✨ Projects
 ### 🏡 [StayHub](https://github.com/Akshitaa-01/Stayhub) 
 a full-stack property listing platform inspired by airbnb
 built it from scratch and refused to stop until it worked (see bio)
@@ -33,13 +31,13 @@ vanilla JS, HTML, CSS — and yes it's pink 🎀
 ---
 
 
-## 🔮 currently
+## 🔮 Currently
 
 - 🔐 adding auth to stayhub (passport.js)
 - ☁️ cloudinary for image uploads
 - 🗺️ mapbox integration
 
----
+
 
 
 
