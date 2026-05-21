@@ -1,33 +1,50 @@
-# Hi, I'm Akshita 👋
+# hi, i'm akshita ✨
 
-B.Tech undergraduate in Computer Science building full-stack web applications from scratch.
+pathologically unable to leave broken code alone 🎀
 
-Currently focused on deepening my backend skills and building projects that solve real problems.
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-HTML · CSS · JavaScript · Bootstrap · EJS
-
-**Backend**
-Node.js · Express.js · REST APIs
-
-**Database**
-MongoDB · SQL
-
-**Tools**
-Git · VS Code
+*cs student • always in the middle of something 🌸*
 
 ---
 
-## 📈 Currently
+## ✨ tech stack
 
--  🔨 Working on StayHub — adding auth, image uploads and maps
-
+`JavaScript` `Node.js` `Express` `MongoDB` `EJS` `Bootstrap` `Html` `Css`
 
 ---
+
+## ✨ projects
+
+### 🏡 [StayHub](https://github.com/Akshitaa-01/Stayhub) 
+a full-stack property listing platform inspired by airbnb
+built it from scratch and refused to stop until it worked (see bio)
+
+-  full CRUD for listings and reviews
+-  star ratings system
+-  server-side + client-side validation with Joi
+-  centralized error handling, Express Router, async error wrapping
+-  currently adding: auth, cloudinary image uploads, mapbox
+
+---
+
+### 🎀 [Tetris Game](https://github.com/Akshitaa-01/Tetris-Game) — [Live Demo](https://akshitaa-01.github.io/Tetris-Game/)
+built tetris from scratch with zero libraries because why not
+vanilla JS, HTML, CSS — and yes it's pink 🎀
+
+---
+
+
+## 🔮 currently
+
+- 🔐 adding auth to stayhub (passport.js)
+- ☁️ cloudinary for image uploads
+- 🗺️ mapbox integration
+
+---
+
+
+
+
+
 
 <!--
 **Akshitaa-01/Akshitaa-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
