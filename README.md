@@ -2,15 +2,32 @@
 
 Pathologically unable to leave broken code alone 🎀
 
-*Cs student • always in the middle of something 🌸*
+*CS student • usually building, debugging, or both 🌸*
+## 💻 A Little Bit About Me
+
+```js
+const akshita = {
+    role: "CS Student",
+    languages: ["C++", "JavaScript"],
+    currentlyLearning: ["Data Structures & Algorithms","React"],
+    building: ["Full-Stack Applications"],
+    currentProject: "StayHub",
+    favoriteThings: ["True Crime Podcasts", "Coffee", "Random Side Projects"],
+    status: "Probably debugging something",
+    goal: "Keep building. Keep breaking. Keep fixing."
+};
+```
+## 🛠️ Tech Stack
+
+**C++** · **JavaScript**
+
+**Frontend** → HTML · CSS · EJS · Bootstrap  
+**Backend** → Node.js · Express.js  
+**Database** → MongoDB · Mongoose  
+**Tools** → Git · GitHub · Cloudinary · Render
 
 ---
-
-## ✨ Tech Stack
-`JavaScript` `Node.js` `Express` `MongoDB` `EJS` `Bootstrap` `Html` `Css`
-
----
-
+<!--
 ## ✨ Projects
 ### 🏡 [StayHub](https://github.com/Akshitaa-01/Stayhub) 
 a full-stack property listing platform inspired by airbnb
@@ -31,11 +48,6 @@ vanilla JS, HTML, CSS — and yes it's pink 🎀
 ---
 
 
-## 🔮 Currently
-
-- 🔐 adding auth to stayhub (passport.js)
-- ☁️ cloudinary for image uploads
-- 🗺️ mapbox integration
 
 
 
@@ -43,8 +55,6 @@ vanilla JS, HTML, CSS — and yes it's pink 🎀
 
 
 
-
-<!--
 **Akshitaa-01/Akshitaa-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
