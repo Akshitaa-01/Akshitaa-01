@@ -20,9 +20,13 @@ const akshita = {
 ## ⌨️ Tech Stack
 
 **Languages** → C++ · JavaScript
+
 **Frontend** → HTML · CSS · EJS · Bootstrap  
+
 **Backend** → Node.js · Express.js  
+
 **Database** → MongoDB · Mongoose  
+
 **Tools** → Git · GitHub · Cloudinary · Render
 
 ---
