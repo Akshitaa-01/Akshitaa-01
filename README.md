@@ -9,12 +9,10 @@ Pathologically unable to leave broken code alone 🎀
 const akshita = {
     role: "CS Student",
     languages: ["C++", "JavaScript"],
-    currentlyLearning: ["Data Structures & Algorithms","React"],
-    building: ["Full-Stack Applications"],
-    currentProject: "StayHub",
+    currentlyFocusedOn: ["Backend Engineering", "Data Structures & Algorithms"],
+    building: ["Full-Stack & Backend Projects"],
     favoriteThings: ["True Crime Podcasts", "Coffee", "Random Side Projects"],
     status: "Probably debugging something",
- 
 };
 ```
 ## ⌨️ Tech Stack
