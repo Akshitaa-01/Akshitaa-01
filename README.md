@@ -21,9 +21,9 @@ const akshita = {
 
 **Frontend** → HTML · CSS · EJS · Bootstrap  
 
-**Backend** → Node.js · Express.js  
+**Backend** → Node.js · Express.js · BullMQ
 
-**Database** → MongoDB · Mongoose  
+**Database** → MongoDB · Mongoose · Redis
 
 **Tools** → Git · GitHub · Cloudinary · Render
 
