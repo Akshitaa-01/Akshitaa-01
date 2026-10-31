@@ -17,7 +17,7 @@ const akshita = {
 ```
 ## ⌨️ Tech Stack
 
-**Languages** → C++ · JavaScript
+**Languages** → C++ · JavaScript · TypeScript
 
 **Frontend** → HTML · CSS · EJS · Bootstrap  
 
