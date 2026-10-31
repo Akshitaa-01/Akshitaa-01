@@ -8,7 +8,7 @@ Pathologically unable to leave broken code alone 🎀
 ```js
 const akshita = {
     role: "CS Student",
-    languages: ["C++", "JavaScript"],
+    languages: ["C++", "JavaScript", "TypeScript"],
     currentlyFocusedOn: ["Backend Engineering", "Data Structures & Algorithms"],
     building: ["Full-Stack & Backend Projects"],
     favoriteThings: ["True Crime Podcasts", "Coffee", "Random Side Projects"],
